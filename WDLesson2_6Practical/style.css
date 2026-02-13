@@ -38,8 +38,8 @@ nav a:focus {
 
 /* Challenge 11: Make the font size bigger and the color of the text to blue for elements with a class of "main" */
 
-font:size 75
-<div class main</div> color: blue; 
+font:size: 24pt;
+color: blue; 
 
 
 
