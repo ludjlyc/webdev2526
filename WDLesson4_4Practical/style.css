@@ -28,7 +28,7 @@ html,body{
    left: 0;
    right: 0;
    bottom:0px;
-   height:200px;
+   height:30px;
  }
  #example{
    padding:20px;
@@ -45,7 +45,7 @@ html,body{
   text-align:center;
 }
 .card img{
-  height:500px ; width:500px;
+  width:100%;
 }
 .highlight{
   font-style:italic;
